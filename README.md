@@ -10,6 +10,9 @@ Built as a Final Year Project at the University of West London, School of Comput
 
 > Right hand controls the mouse. Left hand types on the virtual keyboard.
 
+> <img width="1321" height="589" alt="Screenshot 2026-05-11 050207" src="https://github.com/user-attachments/assets/67309441-f4ad-4e86-91c4-6cf0bb45e0d0" />
+
+
 ---
 
 ## How It Works
@@ -145,7 +148,3 @@ gesture-virtual-interaction/
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
----
-"# gesture-virtual-interaction-system" 
-"# gesture-virtual-interaction-system" 
-"# gesture-virtual-interaction-system" 
